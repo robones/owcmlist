@@ -125,7 +125,7 @@
 
 * 내부 링크
 ```
-syntax: [Title](link)
+[제목](링크)
 ```
 [리드미](README.md)
 
