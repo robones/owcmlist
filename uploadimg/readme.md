@@ -1,6 +1,6 @@
 # uploadimg 사용 방법
 
-![header](./uploadimg/header.png)
+![header](header.png)
 
 > '![이미지 이름](/path/to/img.jpg) <-예시 경로임'
 
