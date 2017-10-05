@@ -157,7 +157,7 @@ __double underscores__
 ## 2.7. 이미지
 ```
 ![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](/path/to/img.jpg "추가 제목") (추가 제목은 마우스 커서를 올리면 나오는 제목임)
 ```
 ![구글 로고](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 ![구글 로고](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "google logo")
