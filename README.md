@@ -1,5 +1,5 @@
 # 오피스 워크샵 커피믹스 리스트
-(./uploadimg/header.png)
+![header](./uploadimg/header.png)
 가입
 ---
 관리자 인증을 위해 오피스 워크샵 닉네임으로 해주세요
