@@ -127,7 +127,7 @@
 ```
 syntax: [Title](link)
 ```
-syntax: [리드미] (README.md)
+[리드미](README.md)
 
 * 자동연결
 ```
