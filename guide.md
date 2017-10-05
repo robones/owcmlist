@@ -126,7 +126,7 @@
 * 내부 링크
 ```
 syntax: [Title](link)
-
+```
 syntax: [리드미] (README.md)
 
 * 자동연결
